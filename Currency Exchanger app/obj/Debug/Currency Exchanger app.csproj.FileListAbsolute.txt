@@ -1,0 +1,6 @@
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\Currency Exchanger app\Currency Exchanger app\bin\Debug\Currency Exchanger app.exe.config
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\Currency Exchanger app\Currency Exchanger app\bin\Debug\Currency Exchanger app.exe
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\Currency Exchanger app\Currency Exchanger app\bin\Debug\Currency Exchanger app.pdb
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\Currency Exchanger app\Currency Exchanger app\obj\Debug\Currency Exchanger app.csprojResolveAssemblyReference.cache
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\Currency Exchanger app\Currency Exchanger app\obj\Debug\Currency Exchanger app.exe
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\Currency Exchanger app\Currency Exchanger app\obj\Debug\Currency Exchanger app.pdb
